@@ -1,0 +1,8 @@
+README.md
+setup.py
+libmulti/__init__.py
+libmulti/fmathmulti.py
+paqmulti.egg-info/PKG-INFO
+paqmulti.egg-info/SOURCES.txt
+paqmulti.egg-info/dependency_links.txt
+paqmulti.egg-info/top_level.txt
