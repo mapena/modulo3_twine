@@ -5,13 +5,13 @@ import setuptools
 #    long_description = fh.read()
 #packages=setuptools.find_packages(),
 setuptools.setup(
-      name="paqsumrest",
-      version="1.0.1",
-      description="ejemplo de setup inicial2",
+      name="paqmulti",
+      version="1.0.0",
+      description="ejemplo de setup inicial3",
       author="mp",
       author_email="mp@mp.com.ar",
       url="www.sarasa.com.ar",
-      packages=["libmate"],
+      packages=["libmulti"],
       classifiers=[
         "Programming Language :: Python :: 3",
         "Operating System :: OS Independent",
