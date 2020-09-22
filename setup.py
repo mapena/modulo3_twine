@@ -6,7 +6,7 @@ import setuptools
 #packages=setuptools.find_packages(),
 setuptools.setup(
       name="paqmulti",
-      version="1.0.0",
+      version="1.0.1",
       description="ejemplo de setup inicial3",
       author="mp",
       author_email="mp@mp.com.ar",
